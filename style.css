@@ -1,3 +1,9 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+}
 canvas{
-    border: 1px solid black;
+    border: 1px solid yellow;
 }
